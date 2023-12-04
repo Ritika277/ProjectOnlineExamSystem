@@ -1,0 +1,12 @@
+body{
+    border-style: solid;
+    height:100%;
+	margin:0px 50px 0px 50px;
+}
+.full{
+    text-align: center;
+}
+@font-face{
+    font-family:myfont;
+    src:url(font.ttf);
+}

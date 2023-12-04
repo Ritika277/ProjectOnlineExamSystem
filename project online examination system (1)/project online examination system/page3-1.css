@@ -1,0 +1,133 @@
+body{
+	height:100%;
+	margin:0px 50px 0px 50px;
+}
+.header{
+	min-width: 500px;
+	text-decoration: none;
+}
+.header2 ul div{
+	display: inline-block;
+	padding: 0px;
+	margin: 0px;
+	list-style-type: none;
+}
+.header2{
+	min-height: 50px;
+	line-height: 50px;
+	width: 100%;
+	height: 50px;
+	padding: 0px;
+	margin-top: 0px;
+	background-color:grey;
+}
+.header2 ul div a:hover{
+	position: relative;
+	align-content: center;
+	display:inline-block;
+	background-color:rgb(255, 106, 0)	;
+}
+.header2 ul div{
+	padding-right: 30px;
+}
+.header2 ul div a{
+	color: white;
+	text-decoration: none;
+}
+.mid{
+    border-style: solid;
+	min-height: 100%;
+	margin-top: 10px;
+	padding: 10px;
+	display: inline-block;
+	color: black;
+	width: 60%;
+	background-color: white;
+}
+.mid a{
+	text-decoration: none;
+	color: rgb(255, 106, 0);
+}
+.mid2{
+    border-style: solid;
+	min-height: 100%;
+	padding: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	display: inline-block;
+	color: black;
+	width: 60%;
+	background-color: white;
+}
+.mid2 a{
+	text-decoration: none;
+}
+.mid2 h1{
+	color: rgb(255, 106, 0);
+}
+
+.circ{
+    color: black;
+    top: 340px;
+    right: 96px;
+	height: 130px;
+	width: 30%;
+    position: absolute;
+	display: grid;
+	margin: 20px;
+	padding: 0px 5px 10px 10px;
+}
+.noti{
+    color: black;
+    top: 460px;
+    right: 120px;
+	height: 130px;
+	width: 30%;
+    position:absolute;
+	display: block;
+	padding: 0px 3px 5px 10px;
+    justify-content: end;
+}
+.news{
+    color: black;
+    top: 560px;
+    right: 120px;
+    position: absolute;
+	height: 130px;
+	width: 30%;
+	display:grid;
+	padding: 0px 3px 5px 10px;
+}
+.footer{
+	margin: 0px;
+	padding: 0px;
+	color: black;
+	display: flex;
+	list-style-type: none;
+}
+#footer2 a{
+	padding: 20px;
+	color:rgb(255, 106, 0);
+}
+#footer2{
+    position: absolute;
+    right: 280px;
+    top:680px;
+	padding-left: 10px;
+	text-align: justify;
+}
+.newsp{
+    position: absolute;
+    top:50px;
+    transform: translateX(10px);
+}
+.circp{
+    position: absolute;
+    top:50px;
+    transform: translateX(10px);
+}
+.notip{
+    position: absolute;
+    top:50px;
+}
+

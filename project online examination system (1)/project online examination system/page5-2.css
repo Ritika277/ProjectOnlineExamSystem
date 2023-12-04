@@ -1,0 +1,36 @@
+body{
+    zoom: 1.3;
+}
+.body1{
+    padding: 10px;
+    margin: 0px 10px 0px 10px;
+}
+.header h1{
+    justify-content: center;
+    text-align: center;
+    font-size: 70px;
+    font-weight: 30px;
+    color: rgb(88, 88, 233);
+}
+.header2 ul h2 div a{
+    color: white;
+    text-decoration: none;
+    list-style-type: none;
+}
+.header2 ul div{
+    justify-content: center;
+    padding: 20px;
+}
+.header2{
+    position: absolute;
+    width: 40%;
+    background-color: rgb(85, 65, 65);
+    font-size: 20px;
+    text-align: center;
+    left: 330px;
+}
+.hello{
+    margin: 2px;
+    padding: 2px;
+    border-style: solid;
+}
